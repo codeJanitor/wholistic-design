@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import "globals";
+
+.site-title {
+  font-family   : ChunkFive;
+  font-size     : 72px;
+  font-weight   : normal;
+  color         : #b3b3b3;
+}
