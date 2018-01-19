@@ -1,0 +1,40 @@
+---
+---
+
+/* Custom Fonts */
+
+/* Links, Titles */
+@font-face {
+    font-family: "ChunkFive";
+    src: url('../fonts/Chunkfive Ex.ttf'),
+    url('../fonts/Chunkfive.eot');
+}
+
+/* Article Sub-titles */
+@font-face {
+    font-family: "OpenSans-Light";
+    src: url('../fonts/OpenSans-Light.ttf'),
+    url('../fonts/OpenSans-Light.eot');
+}
+
+/* Text */
+@font-face {
+    font-family: "Quattrocento-Regular";
+    src: url('../fonts/Quattrocento-Regular.ttf'),
+    url('../fonts/Quattrocento-Regular.eot');
+}
+
+/* Use Windows-style box-sizing. */
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+/* SVG Resizing Fix 
+svg {
+	viewBox
+	preserveAspectRatio
+*/
